@@ -1,4 +1,4 @@
-# Hilary Clinton Emails :  Sentiment Analysis Topic Modelling: LDA & Wordclouds  
+# Hilary Clinton Emails :  Sentiment Analysis, Topic Modelling: LDA & Wordclouds  
 
 The project deals with parsing, cleaning and modelling Hilary Clinton's emails released during her presidential campaign.
 
